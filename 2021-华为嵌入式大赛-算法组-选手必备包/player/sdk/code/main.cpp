@@ -13,7 +13,7 @@ public:
         vector<Route> retRouteVec;
 
         // ***建议选手在这里加入自己的处理代码***
-
+        get_answer(N, C, D, PS, typeVec, edgeVec, retRouteVec);
         // 结果输出到retRouteVec中，如下面6行，每行输出一条路径：
         // retRouteVec.push_back({5, 2, 0});
         // retRouteVec.push_back({6, 2, 0});
